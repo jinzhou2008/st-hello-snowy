@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("☃️ Frosty") 
+st.title("☃️ Snowy") 
 st.write('Hello this is a test of Snowy!')
